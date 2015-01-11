@@ -1,0 +1,21 @@
+C:\Users\Adam\Desktop\CS 341 - Homework 4\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.XML
+C:\Users\Adam\Desktop\CS 341 - Homework 4\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.dll
+C:\Users\Adam\Desktop\CS 341 - Homework 4\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.pdb
+C:\Users\Adam\Desktop\CS 341 - Homework 4\PPMImageEditor\PPMImageLibrary\bin\Debug\FSharp.Core.dll
+C:\Users\Adam\Desktop\CS 341 - Homework 4\PPMImageEditor\PPMImageLibrary\bin\Debug\FSharp.Core.xml
+C:\Users\Adam\Desktop\CS 341 - Homework 4\PPMImageEditor\PPMImageLibrary\obj\Debug\PPMImageLibrary.dll
+C:\Users\Adam\Desktop\CS 341 - Homework 4\PPMImageEditor\PPMImageLibrary\obj\Debug\PPMImageLibrary.pdb
+\\vmware-host\Shared Folders\CS 341 - Programming Language Design and Implementation\PPM Image Editor\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.XML
+\\vmware-host\Shared Folders\CS 341 - Programming Language Design and Implementation\PPM Image Editor\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.dll
+\\vmware-host\Shared Folders\CS 341 - Programming Language Design and Implementation\PPM Image Editor\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.pdb
+\\vmware-host\Shared Folders\CS 341 - Programming Language Design and Implementation\PPM Image Editor\PPMImageEditor\PPMImageLibrary\bin\Debug\FSharp.Core.dll
+\\vmware-host\Shared Folders\CS 341 - Programming Language Design and Implementation\PPM Image Editor\PPMImageEditor\PPMImageLibrary\bin\Debug\FSharp.Core.xml
+\\vmware-host\Shared Folders\CS 341 - Programming Language Design and Implementation\PPM Image Editor\PPMImageEditor\PPMImageLibrary\obj\Debug\PPMImageLibrary.dll
+\\vmware-host\Shared Folders\CS 341 - Programming Language Design and Implementation\PPM Image Editor\PPMImageEditor\PPMImageLibrary\obj\Debug\PPMImageLibrary.pdb
+C:\Users\Adam\Desktop\PPM Image Editor\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.XML
+C:\Users\Adam\Desktop\PPM Image Editor\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.dll
+C:\Users\Adam\Desktop\PPM Image Editor\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.pdb
+C:\Users\Adam\Desktop\PPM Image Editor\PPMImageEditor\PPMImageLibrary\bin\Debug\FSharp.Core.dll
+C:\Users\Adam\Desktop\PPM Image Editor\PPMImageEditor\PPMImageLibrary\bin\Debug\FSharp.Core.xml
+C:\Users\Adam\Desktop\PPM Image Editor\PPMImageEditor\PPMImageLibrary\obj\Debug\PPMImageLibrary.dll
+C:\Users\Adam\Desktop\PPM Image Editor\PPMImageEditor\PPMImageLibrary\obj\Debug\PPMImageLibrary.pdb
