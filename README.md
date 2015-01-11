@@ -7,4 +7,4 @@ The PPM Image Editor can perform various operations on PPM formatted images. The
 * Flip image vertically - flips the top and bottom rows of pixels
 * Rotate right 90 degrees - transposes the matrix of pixels
 
-The easiest way to run the program is to just clone it and open up the Visual Studio solution.
+The easiest way to run the program is to just clone it and open up the Visual Studio solution. There are a couple sample images included.
